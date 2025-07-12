@@ -1,0 +1,22 @@
+/**
+ * @name Buns’ Soft Cat Theme
+ * @author Buns Designs
+ * @version 1.0
+ * @description Cozy pastel cat café Discord theme
+ * @website https://ko-fi.com/bunsdesigns
+ * @source https://github.com/yourusername/soft-cat-theme
+ */
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/1251700018713329685/1391914199202136217/Overwatch_2_Screenshot_2025.07.07_-_17.48.08.16.png?ex=68723ddd&is=6870ec5d&hm=99a9a0f3594d8d973ad9f36365fbd91aeffa36bb5277bf20ee3321eb605b9796&');
+  --accentcolor: 255, 182, 193;
+  /* add your custom variables here */
+}
+
+/* Now all your own custom styles go here: */
+body {
+  background-color: #ffeef2;
+  font-family: 'Comic Neue', sans-serif;
+}
+
+/* and so on... */
